@@ -1,0 +1,13 @@
+aiohttp~=3.9.0
+Brotli~=1.1.0
+yarl~=1.9.3
+pygame
+aiohttp
+numpy
+edge-tts
+gtts
+urllib3
+schedule
+pure-protobuf
+pyvirtualcam
+opencv-python
